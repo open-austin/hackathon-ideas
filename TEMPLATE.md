@@ -1,13 +1,17 @@
 Project Title Here
 ==================
 
---------
+-----
+
 To add a project:
 * Copy this template to a new file called something like "Project_Name.md".
 * Delete this instructions section.
 * Change the title at the top of the page to the project name.
 * Fill out the questionnaire.
---------
+
+Help on Markdown formatting: http://daringfireball.net/projects/markdown/
+
+-----
 
 
 Who will benefit the most from this project?
