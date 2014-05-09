@@ -1,6 +1,6 @@
 # Project Title Here
-
-Submitted by: (your name, github username, any other contact info you wish to provide)
+: 
+Submitted by: [Your Full Name](https://github.com/your-github-username)
 
 
 ### Who will benefit the most from this project?
