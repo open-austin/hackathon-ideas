@@ -20,7 +20,7 @@ If you have a _github_ account, then:
 If you do not have (and do not want) a _github_ account then you could just [download the template](http:TEMPLATE.md), fill it out with a text editor, and [send it via email](mailto:hack@open-austin.org).
 
 Stuff to know:
-* The file is formatted in _Markdown_ style. Help [here](http://daringfireball.net/projects/markdown/).
+* The file is formatted in _Markdown_ style. Help [here](http://daringfireball.net/projects/markdown/). Also, a nice, free and accessible markdown text editor to help you learn is called [Mou](http://mouapp.com/) _(OSX only, sorry)_.
 * Helpful information about hackathon project ideas [here](http://atxhackforchange.org/projects/).
 * The careful observer may note that the template is based on the project submission form for the hackathon.
 
