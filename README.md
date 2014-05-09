@@ -2,7 +2,10 @@
 
 This repository contains community-curated civic project ideas for [ATX Hack for Change 2014](http://atxhackforchange.org/).
 
-The goal of this project is to: 1) identify and refine civic project ideas, 2) solicit community support and identify a _champion_ to bring the project to the event.
+The goal of this project is to:
+
+1. Identify and refine civic project ideas.
+1. Solicit community support and identify a _champion_ to bring the project to the event.
 
 
 ## How to contribute an idea.
