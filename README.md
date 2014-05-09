@@ -13,7 +13,7 @@ The goal of this project is to:
 If you have a _github_ account, then:
 
 1. Clone this repository.
-1. Copy the TEMPLATE.md file to a new file, called something like "Project_Name.md".
+1. Copy the TEMPLATE.md file to a new file, called something like "project_name.md".
 1. Change the title at the top of the page to the project name.
 1. Fill out the questionnaire.
 
