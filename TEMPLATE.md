@@ -1,5 +1,5 @@
 # Project Title Here
-: 
+
 Submitted by: [Your Full Name](https://github.com/your-github-username)
 
 
