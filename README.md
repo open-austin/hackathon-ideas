@@ -2,11 +2,11 @@
 
 This repository contains community-curated civic project ideas for [ATX Hack for Change 2014](http://atxhackforchange.org/).
 
-The goal of this project is to:
+The ideas listed here have _not_ yet been submitted as project proposals to the event. We need your help to refine these ideas, and then to identify a _project champion_ who can submit it as a proposal.
 
-1. Identify and refine civic project ideas.
-1. Solicit community support and identify a _champion_ to bring the project to the event.
+Please respond by Fri, May 16, 2014 with your feedback.
 
+The ideas are presented as individual files in this directory, which you can browse. If you [browse these files online](https://github.com/open-austin/hackathon-ideas/), _github_ will display them nicely formatted.
 
 ## How to contribute an idea.
 
