@@ -1,4 +1,4 @@
-Creating How-To Content for Citizen Data Analysts
+###Creating How-To Content for Citizen Data Analysts
 
 Submitted by: Juliette Kernion (https://github.com/kernion)
 
@@ -17,7 +17,7 @@ As a tech writer, I'm accustomed to learning new applications quickly on my own,
 
 ### What resources will you be providing to support the development team?
 
-In this case, the development team will be primarily writers, ideally with technical writing/procedural writing experience. Tools TBD but will need some way to manage content and to take screenshots. We're reaching out to people who maintain the portal to get support resources for this project.
+In this case, the development team will be primarily writers, ideally with technical writing/procedural writing experience. Tools TBD but will need some way to manage content and to take screenshots. In addition, Socrata is sending API expert Adrian Laurenzi and Socrata's Director of Client Services Cam Caldwell to the Hack for Change event, which will provide invaluable assistance for this project.
 
 ### List current solutions and why you need a new approach to be developed:
 
