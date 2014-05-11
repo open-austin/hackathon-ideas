@@ -24,7 +24,7 @@ http://austin.craigslist.org/search/pet?zoomToPosting=&catAbb=pet&query=lost&exc
 
 ### What resources will you be providing to support the development team?
 
-Pet intakes are currently posted on the data.ausintexas.gov data portal, but those postings occur after the fact,
+Pet intakes are currently posted on the data.austintexas.gov data portal, but those postings occur after the fact,
 and are not useful for providing current lost/recovered pet status.
 
 The city animal shelter does push lost pet notices in real time to this website:

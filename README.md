@@ -38,4 +38,4 @@ You will need a _github_ account to express your support.
 
 In this context, support means you're potentially interested in working on this project at the hackathon.
 
-Use the _github_ "Issues" feature to express your support for an idea. Click "Issues" in the sidebar, and check whether there is an issue alrady open to express your support for the project. If so, add your comment of support. If not, "create a new issue" and indicate your support for the project.
+Use the _github_ "Issues" feature to express your support for an idea. Click "Issues" in the sidebar, and check whether there is an issue already open to express your support for the project. If so, add your comment of support. If not, "create a new issue" and indicate your support for the project.
