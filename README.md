@@ -2,7 +2,7 @@
 
 This repository contains community-curated civic project ideas for [ATX Hack for Change 2014](http://atxhackforchange.org/).
 
-The ideas listed here have _not_ yet been submitted as project proposals to the event. We need your help to refine these ideas, and then to identify a _project champion_ who can submit it as a proposal.
+The ideas listed here have _not_ yet been submitted as project proposals to the event. We need your help to refine these ideas, and then to identify a _project champion_ who can submit it as a proposal. (The hackathon project proposals that have been submitted are [here](http://atxhackforchange.org/project-list/).)
 
 Please respond by Fri, May 16, 2014 with your feedback.
 
