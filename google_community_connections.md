@@ -1,5 +1,7 @@
 # Google Community Connections Dataset and Visualization Tool
 
+Submitted by: [Chris McConnell](https://github.com/McCnnll)
+
 *If you want to support this proposal, add your feedback [here](https://github.com/open-austin/hackathon-ideas/issues/10).*
 
 
