@@ -33,18 +33,18 @@ Stuff to know:
 * Helpful information about hackathon project ideas [here](http://atxhackforchange.org/projects/).
 * The careful observer may note that the template is based on the project submission form for the hackathon.
 
-## How to provide feedback for an idea.
-
-You will need a _github_ account to participate in the discussion.
-
-Use the _github_ "Issues" feature to discuss an idea. Click "Issues" in the sidebar, check whether there already is an issue opened for the project and discussion point you wish to make.
-
-If not, click "Create a new issue", and submit your feedback.
-
 ## How to support an idea.
 
-You will need a _github_ account to express your support.
+If you are potentially interested in working on this project, please express your support.
 
-In this context, support means you're potentially interested in working on this project at the hackathon.
+You will need a _github_ account to support an idea.
 
-Use the _github_ "Issues" feature to express your support for an idea. Click "Issues" in the sidebar, and check whether there is an issue already open to express your support for the project. If so, add your comment of support. If not, "create a new issue" and indicate your support for the project.
+Each idea has a "Github Issues" thread created, where you can express your support. Find a link to the issue thread near the top of the idea page. Or, you can click the "Issues" icon to the right and see all the current issue threads.
+
+Just add your comment of support to the thread.
+
+
+## How to provide feedback for an idea.
+
+Feel free to use the "Github Issue" thread for an idea, discussed above. Or, if appropriate, create a new issue with your feedback.
+
