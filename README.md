@@ -8,6 +8,14 @@ Please respond by Fri, May 16, 2014 with your feedback.
 
 The ideas are presented as individual files in this directory, which you can browse. If you [browse these files online](https://github.com/open-austin/hackathon-ideas/), _github_ will display them nicely formatted.
 
+*If you want to participate in any of these projects*, it is important that you [register to attend the hackathon](http://www.eventbrite.com/e/atx-hack-for-change-registration-10082365627?aff=website).
+
+Collected ideas:
+* [Civic FU](civic_fu.md)
+* [Open311 vs. 10-One District Map](open311_10one.md)
+* [Pet Finder](pet_finder.md)
+* [Creating How-To Content for Citizen Data Analysts](writing_data_how_tos.md)
+
 ## How to contribute an idea.
 
 If you have a _github_ account, then:
