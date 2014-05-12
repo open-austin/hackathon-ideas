@@ -49,7 +49,6 @@ correct any errors.
 
 This project will convert the scanned applications to plain text files that may be published on the city data portal.
 
-Replace this with your answer. 600 chars max.
 One media-studies doctoral student has been using the native OCR feature in Adobe Acrobat Pro. He plans to use the R(tm) for text-mining the applications. 
 
 
