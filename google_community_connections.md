@@ -61,6 +61,6 @@ or machine consumable form. This project will also serve as a pilot for future p
 ### At the end of the weekend, what does success look like? What are your expected outcomes?
 
 A dataset that contains structured information on the 100 selected Google Community Connections
-applications. A tools that allows searching and visualization of the data.
+applications. A tool that allows searching and visualization of the data.
 
 
