@@ -2,6 +2,8 @@
  
 Submitted by: [Chip Rosenthal](https://github.com/chip-rosenthal)
 
+If you want to support this proposal, add your feedback [here](https://github.com/open-austin/hackathon-ideas/issues/7).
+
 
 ### Who will benefit the most from this project?
 
