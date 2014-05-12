@@ -1,4 +1,4 @@
-### Creating How-To Content for Citizen Data Analysts
+# Creating How-To Content for Citizen Data Analysts
 
 Submitted by: Juliette Kernion (https://github.com/kernion)
 
