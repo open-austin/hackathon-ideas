@@ -12,6 +12,7 @@ The ideas are presented as individual files in this directory, which you can bro
 
 Collected ideas:
 * [Civic FU](civic_fu.md)
+* [Google Community Connections Dataset and Visualization Tool](google_community_connections.md)
 * [Open311 vs. 10-One District Map](open311_10one.md)
 * [Pet Finder](pet_finder.md)
 * [Creating How-To Content for Citizen Data Analysts](writing_data_how_tos.md)
