@@ -1,6 +1,9 @@
-###Creating How-To Content for Citizen Data Analysts
+### Creating How-To Content for Citizen Data Analysts
 
 Submitted by: Juliette Kernion (https://github.com/kernion)
+
+*If you want to support this proposal, add your feedback [here](https://github.com/open-austin/hackathon-ideas/issues/9).*
+
 
 ### Who will benefit the most from this project?
 
