@@ -2,7 +2,7 @@
 
 Submitted by: [Matt Carey](https://github.com/mscarey)
 
-_If you want to support this proposal, add your feedback [here](https://github.com/open-austin/hackathon-ideas/issues/9)_
+_If you want to support this proposal, add your feedback [here](https://github.com/open-austin/hackathon-ideas/issues/12)_
 
 ### Who will benefit the most from this project?
 
