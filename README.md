@@ -16,6 +16,7 @@ Collected ideas:
 * [Open311 vs. 10-One District Map](open311_10one.md)
 * [Pet Finder](pet_finder.md)
 * [Creating How-To Content for Citizen Data Analysts](writing_data_how_tos.md)
+* [Collect and Graph City Lobbyist Data](lobbyist_dataset.md)
 
 ## How to contribute an idea.
 
