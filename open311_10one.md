@@ -1,4 +1,4 @@
-# Open311 vs. 10-One District Map
+# 311 vs. 10-One District Map
 
 Submitted by: [Mateo Clarke](https://github.com/mateoclarke)
 
