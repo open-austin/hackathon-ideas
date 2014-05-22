@@ -44,6 +44,8 @@ Current solutions are:
 
 The Pet Harbor site, unfortunately, is not an easy site to use, and does not offer notification support.
 
+The city presents a search of the Pet Harbor site here: http://austintexas.gov/page/view-all-pets
+
 ### At the end of the weekend, what does success look like? What are your expected outcomes?
 
 A tool that periodically scrapes pet recovery postings and saves them to a database.
