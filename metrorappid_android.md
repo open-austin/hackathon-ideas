@@ -21,7 +21,7 @@ The success of the iOS MetroRappid app.
 
 ### What resources will you be providing to support the development team?
 
-We are the development team.
+We are the development team. If you're an Android developer and want to join the team, take a look at our todo list here https://github.com/sethgho/MetroRappidAndroid/issues/2.
 
 
 ### List current solutions and why you need a new approach to be developed:
