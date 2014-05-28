@@ -1,6 +1,6 @@
 # MetroRappid Android
 
-Submitted by: [Luqmaan Dawoodjee](https://github.com/luqmaan) [Seth Gholson](https://github.com/sethgho)
+Submitted by: [Luqmaan Dawoodjee](https://github.com/luqmaan), [Seth Gholson](https://github.com/sethgho)
 
 
 ### Who will benefit the most from this project?
