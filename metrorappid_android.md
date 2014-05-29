@@ -10,7 +10,7 @@ Austinites who use public transportation and have Android devices.
 
 ### What is the problem you are trying to solve by participating in the hackathon?
 
-The CapMetro app takes a lot of work to use to find real-time arrivals for routes like MetroRapid and MetroRail. There is an (iOS app)[https://github.com/luqmaan/MetroRappid] that solves this, but not one for Android.
+The CapMetro app takes a lot of work to use to find real-time arrivals for routes like MetroRapid and MetroRail. There is an [iOS app](https://github.com/luqmaan/MetroRappid) that solves this, but not one for Android.
 
 
 ### What evidence (anecdotal or otherwise) do you have that this is a need?
